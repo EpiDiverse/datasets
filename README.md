@@ -1,3 +1,4 @@
-# datasets
-This repository contains test datasets for running `-profile test` on EpiDiverse pipelines.
-Please checkout the relevant branch for the pipeline you are working on. 
+# datasets: `dmr`
+Test data to be used for automated testing with the EpiDiverse pipelines
+
+This branch contains test data for the [EpiDiverse/dmr](https://github.com/epidiverse/dmr) pipeline.
